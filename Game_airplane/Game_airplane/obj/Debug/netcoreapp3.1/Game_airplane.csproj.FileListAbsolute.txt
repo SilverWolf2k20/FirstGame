@@ -1,0 +1,13 @@
+C:\Users\egorw\source\repos\Game_airplane\Game_airplane\bin\Debug\netcoreapp3.1\Game_airplane.exe
+C:\Users\egorw\source\repos\Game_airplane\Game_airplane\bin\Debug\netcoreapp3.1\Game_airplane.deps.json
+C:\Users\egorw\source\repos\Game_airplane\Game_airplane\bin\Debug\netcoreapp3.1\Game_airplane.runtimeconfig.json
+C:\Users\egorw\source\repos\Game_airplane\Game_airplane\bin\Debug\netcoreapp3.1\Game_airplane.runtimeconfig.dev.json
+C:\Users\egorw\source\repos\Game_airplane\Game_airplane\bin\Debug\netcoreapp3.1\Game_airplane.dll
+C:\Users\egorw\source\repos\Game_airplane\Game_airplane\bin\Debug\netcoreapp3.1\Game_airplane.pdb
+C:\Users\egorw\source\repos\Game_airplane\Game_airplane\obj\Debug\netcoreapp3.1\Game_airplane.csprojAssemblyReference.cache
+C:\Users\egorw\source\repos\Game_airplane\Game_airplane\obj\Debug\netcoreapp3.1\Game_airplane.AssemblyInfoInputs.cache
+C:\Users\egorw\source\repos\Game_airplane\Game_airplane\obj\Debug\netcoreapp3.1\Game_airplane.AssemblyInfo.cs
+C:\Users\egorw\source\repos\Game_airplane\Game_airplane\obj\Debug\netcoreapp3.1\Game_airplane.csproj.CoreCompileInputs.cache
+C:\Users\egorw\source\repos\Game_airplane\Game_airplane\obj\Debug\netcoreapp3.1\Game_airplane.dll
+C:\Users\egorw\source\repos\Game_airplane\Game_airplane\obj\Debug\netcoreapp3.1\Game_airplane.pdb
+C:\Users\egorw\source\repos\Game_airplane\Game_airplane\obj\Debug\netcoreapp3.1\Game_airplane.genruntimeconfig.cache
